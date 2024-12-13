@@ -31,7 +31,8 @@ A fully functional **e-commerce website** built from scratch in just **24 hours*
 
 ### 🌟 Live Demo
 
-[Link to the live project](#) (Add your live project URL here)
+[Link to the live project](https://e-commerce-website-ruby-theta-30.vercel.app/) </br>
+[Link to the Figma Design](https://www.figma.com/design/xoXUMoUTN8e9CDmUyqX2DA/eCommerce-UI?node-id=0-1&node-type=canvas&t=supY4JFQkwrviTnO-0)
 
 ### 🛠️ Setup Instructions
 
