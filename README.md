@@ -1,6 +1,6 @@
-# Hackathon E-Commerce Website ✨
+# E-Commerce Website ✨
 
-A fully functional **e-commerce website** built from scratch in just **24 hours**! This project started from a Figma design prototype and was an exciting challenge, requiring a blend of speed, precision, and creativity.
+A fully functional **e-commerce website** built from scratch! This project started from a Figma design prototype and was an exciting challenge, requiring a blend of speed, precision, and creativity.
 
 ---
 
@@ -51,7 +51,7 @@ A fully functional **e-commerce website** built from scratch in just **24 hours*
 
 ### 📂 Folder Structure
 
-\*\* pages/: Handles routes and views.
-components/: Reusable UI components.
-styles/: Contains Tailwind CSS customizations.
+pages/: Handles routes and views. </br>
+components/: Reusable UI components. </br>
+styles/: Contains Tailwind CSS customizations. </br>
 public/: Static assets like images.
